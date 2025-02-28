@@ -1,7 +1,7 @@
 # jupyterlab_practice project
 This project aims to practice the advanced features of JupyterLab, such as utilizing various Jupyter notebook cell types, writing LaTeX in markdown cells, and more.
 
-## environment-1.yaml
+## environment.yaml
 environment.yaml is the exported environment files and can be used on different operating systems, to reproduce the project on other PC.
 
 ## question11.ipynb
