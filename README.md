@@ -18,4 +18,5 @@ This HTML is the exported file from question12.ipynb
 zhiping.zp.li@gmail.com
 
 -GitHub:
-https://githipingl/project# project
+https://github.com/zhipingl
+
